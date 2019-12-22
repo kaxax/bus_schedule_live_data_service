@@ -1,0 +1,2 @@
+https://us-central1-tbilisi-routing.cloudfunctions.net/get_live_schedule_data?
+live_bus_stops=[1472,2738,2736,3156,1483] && 20schedule_bus_stops=[1472,2738] && bus_id=137
